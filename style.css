@@ -1,11 +1,14 @@
 html{
   background: url("https://img.freepik.com/free-photo/gray-sofa-white-living-room-with-copy-space_43614-918.jpg?w=1380&t=st=1676112861~exp=1676113461~hmac=6ad3e3e190e336396c0884d76d751dae054ceba2ce2793706e6d023cb87e225d");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
 .clock{
   width: 9rem;
   height: 9rem;
   position: fixed;
-  left: 80vh;
+  left: 60vh;
   top: 20vh;
   background: #b30000;
   border: 5px solid #101010;
